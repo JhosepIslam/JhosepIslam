@@ -2,7 +2,7 @@
 **Full-Stack Developer with DevOps Expertise**  
 📍 Santa Tecla, La Libertad, El Salvador  
 📞 +503 7664-9831 | ✉️ jhosepchal@gmail.com  
-🔗 [Portfolio](https://jhosepislam.com/) | 💼 LinkedIn 
+🔗 [Portfolio](https://jhosepislam.com/) | 💼 [LinkedIn](https://www.linkedin.com/in/jhosep-islam-99a46a1b1/)
 
 ---
 
