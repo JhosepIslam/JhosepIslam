@@ -21,7 +21,7 @@ Experienced Full-Stack Developer with 4+ years expertise in web/mobile applicati
 - Automated processes with Python (40% time reduction)  
 - Managed CI/CD pipelines and mentored junior devs  
 
-### **Director Nacional de Magicamentos**  
+### **Director Nacional de Medicamentos**  
 *Application Programming Analyst* | Jul 2021 - Aug 2024  
 - Designed government institution interconnection system (BCR-DNM)  
 - Expanded system scope to foods/beverages/veterinary medicines  
@@ -38,10 +38,10 @@ Experienced Full-Stack Developer with 4+ years expertise in web/mobile applicati
 ## 🛠️ Technical Skills  
 | Category        | Technologies                                                                 |
 |-----------------|------------------------------------------------------------------------------|
-| **Languages**   | JavaScript, PHP, Python, Java, Kotlin                                        |
+| **Languages**   | JavaScript, TypeScript, PHP, Python, Java, Kotlin                                        |
 | **Frontend**    | React.js, Next.js, Vue.js, React Native                                      |
 | **Backend**     | Laravel, Node.js, RESTful APIs                                               |
-| **Databases**   | MySQL, SQL Server, PostgreSQL                                                |
+| **Databases**   | MySQL, SQL Server, PostgreSQL, MongoDB                                               |
 | **DevOps**      | Docker, GCP, CI/CD pipelines, Git                                            |
 | **Cloud**       | Google Cloud Platform (GCP), IAM policies, infrastructure optimization       |
 
